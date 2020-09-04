@@ -1,5 +1,5 @@
 publishDir = "docs/"
-baseurl = "https://example.com/"
+baseurl = "https://rylandjwilliams.github.io/Rylands-Website/"
 title = "Site Title"
 theme = "pulp"
 canonifyurls = true
