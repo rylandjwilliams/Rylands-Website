@@ -1,0 +1,9 @@
+[submodule "hugo-theme-iris"]
+	path = hugo-theme-iris
+	url = https://github.com/peaceiris/hugo-theme-iris.git
+[submodule "pulp"]
+	path = pulp
+	url = https://github.com/koirand/pulp.git
+[submodule "themes/pulp"]
+	path = themes/pulp
+	url = https://github.com/koirand/pulp.git
