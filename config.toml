@@ -17,8 +17,7 @@ hasCJKLanguage = true
     # avatarDescription = "My avatar description"
     favicon = "favicon.ico"
     description = """
-        Please write anything here.
-        Profiles, backgrounds, favorite things etc.
+        De La Salle High School Class of 2021.
     """
     publicationYear = "2020"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
@@ -49,7 +48,7 @@ hasCJKLanguage = true
     identifier = "github"
     # name = "GitHub"
     pre = "<i class='fab fa-github fa-lg'></i>"
-    url = "https://github.com/username"
+    url = "https://github.com/rylandjwilliams"
     weight = 30
 
 [[menu.main]]
