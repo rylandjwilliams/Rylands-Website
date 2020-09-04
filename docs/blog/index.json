@@ -1,6 +1,6 @@
 [
     {
-        "ref": "https://example.com/blog/markdown-syntax/",
+        "ref": "https://rylandjwilliams.github.io/Rylands-Website/blog/markdown-syntax/",
         "title": "Markdown Syntax Guide",
         "section": "blog",
         "tags": ["markdown","css","html","themes"],
@@ -9,7 +9,7 @@
     }
 ,
     {
-        "ref": "https://example.com/blog/rich-content/",
+        "ref": "https://rylandjwilliams.github.io/Rylands-Website/blog/rich-content/",
         "title": "Rich Content",
         "section": "blog",
         "tags": ["shortcodes","privacy"],
@@ -18,7 +18,7 @@
     }
 ,
     {
-        "ref": "https://example.com/blog/placeholder-text/",
+        "ref": "https://rylandjwilliams.github.io/Rylands-Website/blog/placeholder-text/",
         "title": "Placeholder Text",
         "section": "blog",
         "tags": ["markdown","text"],
@@ -27,7 +27,7 @@
     }
 ,
     {
-        "ref": "https://example.com/blog/math-typesetting/",
+        "ref": "https://rylandjwilliams.github.io/Rylands-Website/blog/math-typesetting/",
         "title": "Math Typesetting",
         "section": "blog",
         "tags": null,
@@ -36,7 +36,7 @@
     }
 ,
     {
-        "ref": "https://example.com/blog/emoji-support/",
+        "ref": "https://rylandjwilliams.github.io/Rylands-Website/blog/emoji-support/",
         "title": "Emoji Support",
         "section": "blog",
         "tags": ["emoji"],
