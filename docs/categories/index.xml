@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Site Title</title>
+    <title>Categories on Ryland_Portfolio</title>
     <link>https://rylandjwilliams.github.io/Rylands-Website/categories/</link>
-    <description>Recent content in Categories on Site Title</description>
+    <description>Recent content in Categories on Ryland_Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://rylandjwilliams.github.io/Rylands-Website/categories/index.xml" rel="self" type="application/rss+xml" />

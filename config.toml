@@ -1,6 +1,6 @@
 publishDir = "docs/"
 baseurl = "https://rylandjwilliams.github.io/Rylands-Website/"
-title = "Site Title"
+title = "Ryland_Portfolio"
 theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
@@ -55,5 +55,5 @@ hasCJKLanguage = true
     identifier = "email"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
-    url = "mailto:username@example.com"
+    url = "mailto:rylandwilliams2021@gmail.com"
     weight = 40
