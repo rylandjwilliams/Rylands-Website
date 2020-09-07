@@ -17,7 +17,7 @@ hasCJKLanguage = true
     # avatarDescription = "My avatar description"
     favicon = "favicon.ico"
     description = """
-        De La Salle High School Class of 2021 | USA Water Polo 2019 Academic All-American
+        De La Salle High School Class of 2021
     """
     publicationYear = "2020"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
