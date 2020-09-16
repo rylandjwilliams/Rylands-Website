@@ -1,5 +1,5 @@
 ---
-title: "Markdown Syntax Guide"
+title: "Awards and Activities"
 date: 2019-03-11
 draft: false
 tags: [
@@ -9,131 +9,29 @@ tags: [
     "themes",
 ]
 ---
+## Awards and Honors
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-<!--more-->
-
-## Headings
-
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-## Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.</p>
-> — <cite>Rob Pike[^1]</cite>
+1. 2018-2020 Scholar Athlete: I maintained above a 3.5 GPA for the entire CIF swim season.
+2. 2019 Most Improved Varsity Swimmer: Was awarded this by my coach for my dedication to improving throughout the season.
+3. 2019 USA Water Polo Academic All-American: Received this award for participating in a national level event while also achieving a 3.6 or higher GPA.
+4. OnBoard! Leader: Was chosen by faculty at my school to be a mentor for first year students.
+5. 7 year Junior Olympic water polo qualifier
+6. 2018-2020 California Scholarship Federation Member
 
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+## Extracuricular Activities
 
-## Tables
+1. I have been a varsity swimmer every year of highschool.
+2. 2018 Frosh-Soph Water polo
+3. 2019 and 2020 varsity water polo
+4. Service leadership: I participate in the creating and advertising of school fundraisers and events. I also learn about different leadership styles and skills and how to be an effective leader.
+5. USA club water polo
+6. USA club swimming
+7. University of Southern California Explore Engineering: This was a four week long summer cours worth three college credits that helped me explore different engineering fields such as, mechanical, biomedical, electrical, civil, and aerospace engineering.
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
 
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-#### Inline Markdown within tables
-
-| Inline&nbsp;&nbsp;&nbsp;     | Markdown&nbsp;&nbsp;&nbsp;  | In&nbsp;&nbsp;&nbsp;                | Table      |
-| ---------- | --------- | ----------------- | ---------- |
-| *italics*  | **bold**  | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code`     |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```
-html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-#### Code block indented with four spaces
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-      <meta charset="UTF-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Item
-1. First Sub-item
-2. Second Sub-item
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+## Volunteer Work and Community Service
+1. Eastside Baby Corner: Non profit organization that collects toys and clothing to give to children and families in need. I often packed clothes and sorted clothes. However, I also did a lot of organizing and odd jobs due to the fact that I came to volunteer often and got to know the managers of the location very well.
+2. Seattle Humane Society: They house abandoned or stray pets and put them up for adoption as well as care for them. I made some blankets and toys for the dogs and cats at the shelter.
+3. Northwest Harvest: They collect and package food to distribute to food banks around Washington State. I would package food into little bags and then place them in boxes.
+4. Forgotten Childrens Fund: They collect toys and clothes to be gifted to families in need on christmas. I would read a childs profile that described there interests and then collect toys I thought they would like. I would then wrap those gifts and place them in a bag to be delivered on christmas. 
